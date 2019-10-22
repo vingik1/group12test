@@ -24,4 +24,4 @@ setup:
     
       d. velja GET: http://localhost:8080/Publications/1001 (nýja Publication var add-að)
       e. DELETE: http://localhost:8080/Publications/1001 (delete-ar id = 1001)
-      d. velja GET: http://localhost:8080/Publications/1001 (nýja Publication var delete-að)
+      d. velja GET: http://localhost:8080/Publications/1001 (nýja Publication var delete-að).
