@@ -2,7 +2,7 @@
 
 setup:
   1. gera nýtt maven project.
-  2. látta groupId vera is.ru.honn.group1 og artifactId Project2
+  2. látta groupId vera = is.ru.honn.group1 og artifactId = Project2
   3. fær svon is.ru.honn/group12 i src/main/java í projectinu
   4. replace-a pom.xml file.
   5. setja svo t-302-honn-2019_Publication-P2.json efst í folder-inu(sama stað og pom.xml file)
