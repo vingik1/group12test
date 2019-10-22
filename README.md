@@ -8,6 +8,7 @@ setup:
   5. setja svo t-302-honn-2019_Publication-P2.json efst í folder-inu(sama stað og pom.xml file)
   6. build og run.
   7. fara í postman og í ýtta á browse takkan í hægra neðri horninu og gera eftirfarandi skipanir
+  
       a. velja GET: http://localhost:8080/Publications
       
       b. velja GET: http://localhost:8080/Publications/500 (fyrir sérstakt id)
